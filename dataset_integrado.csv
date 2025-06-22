@@ -1,0 +1,7 @@
+venta_id,cliente_id,fecha_venta,importe,Unnamed: 4_x,Unnamed: 5,nombre_cliente,e-mail,Unnamed: 3,Unnamed: 4_y
+1,101,2023-01-15,150.75,,,Ana Garcia,ana@example.com,,
+2,102,2023-02-20,200.0,,,Luis Perez,luis@example.com,,
+3,101,2023-03-10,75.5,,,Ana Garcia,ana@example.com,,
+6,101,2023-07-22,0.0,,,Ana Garcia,ana@example.com,,
+8,106,2025-01-01,250.0,,,Carlos Sanchez,carlos@example.com,,
+10,108,2022-12-01,146.83333333333334,,,Desconocido,,,
